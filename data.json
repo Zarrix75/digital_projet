@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titre": "Article 1",
+    "contenu": "Voici le contenu du premier article."
+  },
+  {
+    "id": 2,
+    "titre": "Article 2",
+    "contenu": "Contenu du second article avec plus de détails."
+  },
+  {
+    "id": 3,
+    "titre": "Article 3",
+    "contenu": "Une autre entrée d’exemple pour l’affichage."
+  },
+  {
+    "id": 4,
+    "titre": "Article 4",
+    "contenu": "Texte informatif lié au projet Express."
+  },
+  {
+    "id": 5,
+    "titre": "Article 5",
+    "contenu": "Description du cinquième article de démonstration."
+  },
+  {
+    "id": 6,
+    "titre": "Article 6",
+    "contenu": "Dernier contenu de test pour compléter les 6 objets."
+  }
+]
